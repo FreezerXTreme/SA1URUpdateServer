@@ -72,7 +72,6 @@ add misc_ui/Loading/logos_jp.dds
 add misc_ui/Loading/logo_sonicteam.dds
 add misc_ui/Loading/OPmovie_titlelogo_EN.dds
 add misc_ui/Loading/OPmovie_titlelogo_JP.dds
-add misc_ui/Loading/SA1SkinsInRecomp.png
 add advsonic_upgrades/+Sonic.ar.00
 add advsonic_upgrades/+Sonic.arl
 add advsonic_upgrades/+SuperSonic.ar.00
