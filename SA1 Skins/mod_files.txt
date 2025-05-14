@@ -1,7 +1,7 @@
 add mod.ini
 add AdvSkins.json
 
-add /m/advsonic/+Sonic.ar.00
+add /advsonic/+Sonic.ar.00
 add /advsonic/+Sonic.arl
 add /advsonic/+SuperSonic.ar.00
 add /advsonic/+SuperSonic.arl
@@ -111,9 +111,9 @@ add /misc_ui/+EvilSonic.ar.00
 add /misc_ui/+EvilSonic.arl
 add /misc_ui/+SystemCommonCore.ar.00
 add /misc_ui/+SystemCommonCore.arl
-add /m/misc_ui/Loading/logos_en.dds
-add /m/misc_ui/Loading/logos_jp.dds
-add /m/misc_ui/Loading/logo_sonicteam.dds
-add /m/misc_ui/Loading/OPmovie_titlelogo_EN.dds
-add /m/misc_ui/Loading/OPmovie_titlelogo_JP.dds
-add /m/misc_ui/Loading/SA1SkinsInRecomp.png
+add /misc_ui/Loading/logos_en.dds
+add /misc_ui/Loading/logos_jp.dds
+add /misc_ui/Loading/logo_sonicteam.dds
+add /misc_ui/Loading/OPmovie_titlelogo_EN.dds
+add /misc_ui/Loading/OPmovie_titlelogo_JP.dds
+add /misc_ui/Loading/SA1SkinsInRecomp.png
