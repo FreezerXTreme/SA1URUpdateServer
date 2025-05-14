@@ -12,10 +12,10 @@ Sonic with Upgrades (In-Game),
 
 Misc:
 
-Added UI Changes,
- Added Chao,
- Added Rings,
- Added Light Speed Dash Shoes,
+UI Changes,
+ Chao,
+ Rings,
+ Light Speed Dash Shoes,
 
 
 ## SA1 Sonic 1.0
