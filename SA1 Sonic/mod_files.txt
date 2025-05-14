@@ -116,3 +116,7 @@ add misc_ui/Loading/OPmovie_titlelogo_JP.dds
 add misc_ui/Loading/SA1SkinsInRecomp.png
 add AdvSkins.json
 add mod.ini
+delete +Sonic.ar.00
+delete +Sonic.arl
+delete +SuperSonic.ar.00
+delete +SuperSonic.arl
