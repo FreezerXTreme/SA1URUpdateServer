@@ -16,5 +16,5 @@ Added Rings,
 Added Light Speed Dash Shoes,
 
 
-1.0
+## SA1 Sonic 1.0
 Initial Release of SA1 Sonic
