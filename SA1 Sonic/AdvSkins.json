@@ -1,0 +1,219 @@
+{
+	"Groups": [
+		{	
+			"Name": "Main",
+			"DisplayName": "Characters",
+			"Elements": [
+
+				{
+					"Name": "IncludeDir0",
+					"DisplayName": "Sonic",
+					"Type": "SA1Sonic",
+					"MinValue": null,
+					"MaxValue": null,
+					"DefaultValue": "advsonic"
+				},
+				{
+					"Name": "IncludeDir7",
+					"DisplayName": "Werehog",
+					"Type": "SA1Evil",
+					"MinValue": null,
+					"MaxValue": null,
+					"DefaultValue": "advevil"
+				},
+				{
+					"Name": "IncludeDir1",
+					"DisplayName": "Tails",
+					"Type": "SA1Tails",
+					"MinValue": null,
+					"MaxValue": null,
+					"DefaultValue": "advtails"
+				},
+				{
+					"Name": "IncludeDir2",
+					"DisplayName": "Amy",
+					"Type": "SA1Amy",
+					"MinValue": null,
+					"MaxValue": null,
+					"DefaultValue": "advamy"
+				},
+					{
+						"Name": "IncludeDir3",
+						"DisplayName": "Dr. Eggman",
+						"Type": "SA1Egg",
+						"MinValue": null,
+						"MaxValue": null,
+						"DefaultValue": "advegg"
+					},
+					{
+						"Name": "IncludeDir4",
+						"DisplayName": "Chip",
+						"Type": "SA1Chip",
+						"MinValue": null,
+						"MaxValue": null,
+						"DefaultValue": "advchip"
+					}
+			]
+		},
+		{
+			"Name": "Main",
+			"DisplayName": "Miscellaneous",
+			"Elements": [
+
+								{
+					"Name": "IncludeDir9",
+					"DisplayName": "Icons",
+					"Type": "SA1UI",
+					"MinValue": null,
+					"MaxValue": null,
+					"DefaultValue": "misc_ui"
+				},
+				{
+					"Name": "IncludeDir5",
+					"DisplayName": "Light Speed Shoes",
+					"Type": "SA1LSD",
+					"MinValue": null,
+					"MaxValue": null,
+					"DefaultValue": "misc_lsd"
+				},
+				{
+					"Name": "IncludeDir6",
+					"DisplayName": "Rings",
+					"Type": "SA1Ring",
+					"MinValue": null,
+					"MaxValue": null,
+					"DefaultValue": "misc_ring"
+				},
+				{
+					"Name": "IncludeDir8",
+					"DisplayName": "Chao",
+					"Type": "SA1Chao",
+					"MinValue": null,
+					"MaxValue": null,
+					"DefaultValue": "misc_chao"
+				}
+			]
+		}
+	],
+	"Enums": {
+		"SA1Sonic": 
+		[
+			{
+				"DisplayName": "No Upgrades",
+				"Value": "advsonic"
+			},
+			{
+				"DisplayName": "All Upgrades",
+				"Value": "advsonic_upgrades",
+				"Description": ["Only adds it for the In-Game model, Everything else is Vanilla Shoes"]
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		],
+		"SA1Evil": 
+		[
+			{
+				"DisplayName": "Enabled",
+				"Value": "advevil"
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		],
+		"SA1Tails": 
+		[
+			{
+				"DisplayName": "Enabled",
+				"Value": "advtails"
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		],		
+		"SA1Amy": 
+		[
+			{
+				"DisplayName": "Enabled",
+				"Value": "advamy"
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		],
+		"SA1Egg": 
+		[
+			{
+				"DisplayName": "Enabled",
+				"Value": "advegg"
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		],
+		"SA1Chip": 
+		[
+			{
+				"DisplayName": "Enabled",
+				"Value": "advchip"
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		],
+		"SA1Ring": 
+		[
+			{
+				"DisplayName": "Enabled",
+				"Value": "misc_ring"
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		],
+		"SA1LSD": 
+		[
+			{
+				"DisplayName": "Enabled",
+				"Value": "misc_lsd",
+				"Description": [
+					"Adds The SA1 Styled Light Speed Shoes instead of the regular golden one in Shamar (Won't appear if you already unlocked The Light Speed Dash!"
+				]
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		],		
+		"SA1Chao": 
+		[
+			{
+				"DisplayName": "Enabled",
+				"Value": "misc_chao"
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		],
+				"SA1UI": 
+		[
+			{
+				"DisplayName": "Enabled",
+				"Value": "misc_ui"
+			},
+			{
+				"DisplayName": "Disabled",
+				"Value": ""
+			}
+		]
+	},
+	"IniFile": "mod.ini"
+}
