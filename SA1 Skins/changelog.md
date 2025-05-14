@@ -2,18 +2,18 @@
 2.0
 Huge Update!
 Characters:
-Added Sonic with Upgrades (In-Game)
-Added Werehog
-Added Chip
-Added Tails
-Added Amy
-Added Eggman
+Added Sonic with Upgrades (In-Game),
+Added Werehog,
+Added Chip,
+Added Tails,
+Added Amy,
+Added Eggman,
 
 Misc:
-Added UI Changes
-Added Chao
-Added Rings
-Added Light Speed Dash Shoes
+Added UI Changes,
+Added Chao,
+Added Rings,
+Added Light Speed Dash Shoes,
 
 
 1.0
